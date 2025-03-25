@@ -7,3 +7,5 @@ step01 - 01 testing cicd (build of jekins)
 step01 - 02 new testing
 <br>
 step01 - 03 testing for Last
+<br>
+step01 - 04 testing other way
