@@ -16,9 +16,9 @@ class Step07CicdApplicationTests {
     // 기능 테스트: 단순한 덧셈 확인
     @Test
     void testAddition() {
-        int result = 2 + 3;
+        int result = 12 + 3;
         System.out.println("비교 전 ************************************");
-        assertEquals(5, result);  // 성공: 5 == 5
+        assertEquals(15, result);  // 성공: 5 == 5
         System.out.println("비교 후 ************************************");
     }
 }
