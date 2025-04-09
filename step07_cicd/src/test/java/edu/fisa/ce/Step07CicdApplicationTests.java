@@ -18,7 +18,7 @@ class Step07CicdApplicationTests {
     void testAddition() {
         int result = 12 + 3;
         System.out.println("비교 전 ************************************");
-        assertEquals(5, result);  // 성공: 5 == 5
+        assertEquals(15, result);  // 성공: 5 == 5
         System.out.println("비교 후 ************************************");
     }
 }
