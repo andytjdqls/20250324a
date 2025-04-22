@@ -20,3 +20,6 @@ step02 - 05 test Last
 new testing
 <br>
 git test for ssh verified
+
+<br>
+git test for gpg verified
