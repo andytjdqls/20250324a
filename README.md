@@ -15,8 +15,6 @@ step01 - 04 testing other way (retry)
 step02 - 05 test Last
 <br>
 
-
-
 new testing
 <br>
 git test for ssh verified
@@ -27,3 +25,5 @@ git test for gpg verified -> fail (gpg키 등록 실패)
 git test for verified -> fail (email 불일치)
 <br>
 git test for verified (change email name) -> fail (GPG 키의 형식)
+<br>
+git test for verified testing (another PC)
