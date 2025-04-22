@@ -22,4 +22,6 @@ new testing
 git test for ssh verified
 
 <br>
-git test for gpg verified
+git test for gpg verified -> fail
+
+git test for verified
